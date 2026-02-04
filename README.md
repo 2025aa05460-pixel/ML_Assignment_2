@@ -188,8 +188,8 @@ project-folder/
 
 ## Links
 
-- **GitHub Repository**: [Repository Link]
-- **Live Streamlit App**: [Streamlit App Link]
+- **GitHub Repository**: [Repository Link](https://github.com/2025aa05460-pixel/ML_Assignment_2)
+- **Live Streamlit App**: [Streamlit App Link](https://mlassignment2-byoqli8wyecs8vpmbbzdqu.streamlit.app/)
 - **Dataset Source**: [UCI Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 ---
